@@ -1,0 +1,10 @@
+Opened URL: https://www.nueverainfotech.com/
+Screenshot saved: C:\Users\karth\task2_output\homepage.png
+Clicked on link: client portal
+Screenshot saved: C:\Users\karth\task2_output\click_client_portal.png
+Searched for: security certifications
+Screenshot saved: C:\Users\karth\task2_output\search_security_certifications.png
+Clicked on link: contact us
+Screenshot saved: C:\Users\karth\task2_output\click_contact_us.png
+Browser closed by user.
+Screenshot saved: C:\Users\karth\task2_output\final.png
