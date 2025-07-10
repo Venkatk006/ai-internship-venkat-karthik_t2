@@ -24,7 +24,7 @@ How to Run
    python task2_script.py
 
 4. Enter commands like:
-   Enter website URL: https://www.python.org
+   Enter website URL: (https://www.nueverainfotech.com/)
    Enter command: click About
    Enter command: search AI
    Enter command: exit
